@@ -1,0 +1,14 @@
+Website Link - https://shreyashik2.github.io/ds4200fall/
+
+Styling & Customizations
+
+Font: Segoe UI
+
+Colors: Light Gray background and dark text, with blue header
+
+Layout and Spacing: Main content is centers with paddding and margins to insure text
+is neat and easy to read.
+
+Navigation: Bold white text for navigations link to move between Home and About pages.
+
+Footer: Footer is centered with lighter colors
